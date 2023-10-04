@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		 <link rel="stylesheet" href="style.css">
+		<title>index.html</title>
+	</head>
+	
+	<body>
+	    <h1>01A Internet-piirros</h1>
+	  <img src="internet.jpg"
+	alt="kissa"
+	style="width:490px;height:600px;>
+	
+</html>
